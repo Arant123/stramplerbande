@@ -1,0 +1,6 @@
+{
+"require":{
+   "slim/slim-skeleton": "3.*"
+ }
+}
+ 
